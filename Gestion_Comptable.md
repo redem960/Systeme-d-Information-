@@ -1,4 +1,4 @@
-# Système d’Information – Gestion Comptable d’une Entreprise - ETU4316 - ETUXXXX
+# Système d’Information – finance et de la comptabilité - ETU4316 - ETUXXXX
 
 ---
 
