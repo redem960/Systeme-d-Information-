@@ -1,4 +1,4 @@
-# Système d’Information – Gestion Comptable d’une Entreprise - ETUXXXX
+# Système d’Information – Gestion Comptable d’une Entreprise - ETU4316 - ETUXXXX
 
 ---
 
